@@ -213,7 +213,7 @@ Models the logarithm of Out-of-Pocket Expenditure (OOPE) conditional on positive
 
 ##  project By 
 
-**Vijay B**  
+**Vijayakumar bandi**  
 M.Sc. Mathematics and Statistics  
 Indian Institute of Technology Tirupati
 
