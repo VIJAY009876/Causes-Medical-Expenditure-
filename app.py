@@ -6,6 +6,12 @@ Entry point. Run with:  streamlit run app.py
 
 import streamlit as st
 
+st.info(
+    """
+    ℹ️ Results and predictions are based on NSSO 80th Round survey data (2023–24) and should be treated as indicative estimates rather than guaranteed outcomes.
+    """
+)
+
 st.set_page_config(
     page_title="Analysis and Prediction of Medical Expenditure and Its Effects on Indian households",
     page_icon="🏥",
