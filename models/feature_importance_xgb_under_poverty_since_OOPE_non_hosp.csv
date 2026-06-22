@@ -1,0 +1,81 @@
+feature,importance
+economic_quintile_5th Quintile (Richest),0.06532688
+Private,0.052931774
+economic_quintile_4th Quintile,0.038728334
+INJURIES,0.026014913
+state_Manipur,0.02507201
+Charity,0.024576776
+state_Arunachal Pradesh,0.021775171
+CANCERS,0.020638779
+HH_size_≤4 members,0.020337783
+GENITO,0.019268196
+state_Bihar,0.018979276
+INFECTION,0.018433213
+state_West Bengal,0.018144166
+Religion_Other,0.018117271
+economic_quintile_3rd Quintile,0.017629497
+GASTRO,0.017384082
+state_Kerala,0.016511168
+KIDNEY_FAILURE,0.016293723
+MUSCULO,0.015230141
+BLOOD_DISEASES,0.014989066
+CARDIO_VASCULAR,0.01495989
+PSYCHIATRIC,0.014553048
+SKIN,0.0145182
+state_Karnataka,0.01429223
+state_Uttar Pradesh,0.014248746
+ENDOCRINE,0.014232693
+RESPIRATORY,0.014087731
+economic_quintile_2nd Quintile,0.013747123
+SYMPTOM_UNKNOWN,0.012941795
+state_Maharashtra,0.012902351
+state_Jharkhand,0.012737786
+state_Nagaland,0.012008562
+Govt,0.0119122
+OBSTETRIC,0.011887095
+social_group_ST,0.011821308
+state_Rajasthan,0.011437321
+state_Tamil Nadu,0.011163675
+EAR,0.011027036
+state_Himachal Pradesh,0.010210094
+state_Haryana,0.010052326
+Religion_Islam,0.009480505
+Mejor_source_of_income_Other,0.009467683
+state_Odisha,0.00945643
+state_Assam,0.009331187
+HH_education_Graduation & above,0.009309321
+Gender_Male,0.009210771
+EYE,0.009087081
+state_Gujarat,0.009011115
+age_of_household_base60_Below 60,0.008983885
+state_Jammu & Kashmir,0.008814476
+Mejor_source_of_income_Regular Wage,0.008722849
+state_Uttarakhand,0.008629019
+state_Andhra Pradesh,0.008614276
+state_Madhya Pradesh,0.00856077
+state_Punjab,0.008519024
+state_Chhattisgarh,0.008322908
+social_group_nan,0.0083222985
+female_ratio,0.008212038
+social_group_SC,0.007960822
+state_Tripura,0.007936841
+max_education,0.007871451
+state_Sikkim,0.007858056
+HH_education_Below Secondary,0.007857729
+Mejor_source_of_income_Self-employed,0.0073434594
+sector_Urban,0.0072258324
+insurance_cover_1,0.007217718
+state_Telangana,0.00631013
+NO_SYMPTOM_INFO,0.006173339
+state_Meghalaya,0.0053978735
+state_Mizoram,0.0053694267
+state_Puducherry,0.004162023
+state_Goa,0.0036746636
+state_Lakshadweep,0.0035930723
+state_Daman & Diu,0.0028685338
+Gender_Transgender,0.0
+state_Delhi,0.0
+state_Ladakh,0.0
+state_Chandigarh,0.0
+state_Unknown,0.0
+CHILDBIRTH,0.0

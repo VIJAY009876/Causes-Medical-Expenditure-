@@ -1,0 +1,42 @@
+Dataset,Variable,Coefficient,Std_Error,z_value,p_value,Odds_Ratio,OR_CI_Lower,OR_CI_Upper,Significant
+Hospitalization,Intercept,-3.0359,0.0874,-34.7356,0.0,0.048,0.0405,0.057,True
+Hospitalization,C(sector)[T.Urban],0.0073,0.032,0.2272,0.8203,1.0073,0.946,1.0726,False
+Hospitalization,C(HH_size)[T.≤4 members],-0.6021,0.0298,-20.2011,0.0,0.5477,0.5166,0.5806,True
+Hospitalization,C(HH_education)[T.Below Secondary],0.0557,0.0327,1.7046,0.0883,1.0573,0.9917,1.1272,False
+Hospitalization,C(HH_education)[T.Graduation & above],-0.0373,0.055,-0.6786,0.4974,0.9634,0.865,1.073,False
+Hospitalization,C(Religion)[T.Islam],0.0118,0.042,0.2812,0.7785,1.0119,0.932,1.0986,False
+Hospitalization,C(Religion)[T.Other],0.0689,0.0663,1.039,0.2988,1.0714,0.9407,1.2201,False
+Hospitalization,C(age_of_household_base60)[T.Below 60],-0.1574,0.0305,-5.1544,0.0,0.8543,0.8047,0.907,True
+Hospitalization,C(insurance_cover)[T.1],-0.1098,0.0272,-4.0445,0.0001,0.896,0.8495,0.945,True
+Hospitalization,C(Gender)[T.Male],0.1068,0.039,2.7406,0.0061,1.1127,1.0309,1.201,True
+Hospitalization,C(Gender)[T.Transgender],-20.7833,13387.0782,-0.0016,0.9988,0.0,0.0,inf,False
+Hospitalization,C(economic_quintile)[T.2nd Quintile],-0.2857,0.0398,-7.1825,0.0,0.7515,0.6951,0.8124,True
+Hospitalization,C(economic_quintile)[T.3rd Quintile],-0.9148,0.0419,-21.8434,0.0,0.4006,0.369,0.4349,True
+Hospitalization,C(economic_quintile)[T.4th Quintile],-1.736,0.0467,-37.191,0.0,0.1762,0.1608,0.1931,True
+Hospitalization,C(economic_quintile)[T.5th Quintile (Richest)],-2.5719,0.0546,-47.0658,0.0,0.0764,0.0686,0.085,True
+Hospitalization,C(Mejor_source_of_income)[T.Other],-0.0321,0.058,-0.5539,0.5796,0.9684,0.8643,1.085,False
+Hospitalization,C(Mejor_source_of_income)[T.Regular Wage],0.0669,0.0416,1.6089,0.1076,1.0692,0.9855,1.1601,False
+Hospitalization,C(Mejor_source_of_income)[T.Self-employed],0.1005,0.0329,3.0598,0.0022,1.1058,1.0368,1.1793,True
+Hospitalization,C(social_group)[T.SC],-0.0933,0.0325,-2.8733,0.0041,0.9109,0.8547,0.9708,True
+Hospitalization,C(social_group)[T.ST],-0.2156,0.0505,-4.2716,0.0,0.8061,0.7301,0.8899,True
+Hospitalization,Charity,1.4368,0.0913,15.733,0.0,4.2071,3.5176,5.0318,True
+Hospitalization,Govt,0.1987,0.0462,4.3049,0.0,1.2198,1.1143,1.3353,True
+Hospitalization,Private,2.6018,0.0562,46.3262,0.0,13.4886,12.0826,15.0582,True
+Hospitalization,INFECTION,-0.1796,0.0424,-4.2335,0.0,0.8356,0.7689,0.9081,True
+Hospitalization,CANCERS,2.0136,0.0841,23.9435,0.0,7.49,6.3518,8.8321,True
+Hospitalization,BLOOD_DISEASES,0.5391,0.0902,5.9796,0.0,1.7145,1.4368,2.0459,True
+Hospitalization,ENDOCRINE,0.557,0.0765,7.2773,0.0,1.7455,1.5023,2.028,True
+Hospitalization,PSYCHIATRIC,0.9151,0.0525,17.4333,0.0,2.497,2.2529,2.7676,True
+Hospitalization,EYE,-0.3523,0.0763,-4.6177,0.0,0.703,0.6054,0.8164,True
+Hospitalization,EAR,0.69,0.1761,3.9181,0.0001,1.9938,1.4118,2.8157,True
+Hospitalization,CARDIO_VASCULAR,0.9311,0.0462,20.1353,0.0,2.5374,2.3175,2.7781,True
+Hospitalization,RESPIRATORY,0.4964,0.066,7.5257,0.0,1.6429,1.4436,1.8696,True
+Hospitalization,GASTRO,0.4642,0.0463,10.0337,0.0,1.5907,1.4528,1.7417,True
+Hospitalization,SKIN,0.1812,0.1434,1.2635,0.2064,1.1986,0.905,1.5876,False
+Hospitalization,MUSCULO,0.8541,0.0651,13.114,0.0,2.3492,2.0677,2.669,True
+Hospitalization,GENITO,0.5375,0.0553,9.7229,0.0,1.7118,1.536,1.9077,True
+Hospitalization,OBSTETRIC,0.6632,0.0801,8.283,0.0,1.941,1.6591,2.2709,True
+Hospitalization,INJURIES,0.9387,0.0423,22.2118,0.0,2.5567,2.3534,2.7774,True
+Hospitalization,KIDNEY_FAILURE,1.25,0.1086,11.5072,0.0,3.4905,2.8211,4.3187,True
+Hospitalization,SYMPTOM_UNKNOWN,0.5888,0.0843,6.9869,0.0,1.8018,1.5275,2.1254,True
+Hospitalization,NO_SYMPTOM_INFO,0.351,0.2636,1.3312,0.1831,1.4205,0.8472,2.3815,False

@@ -1,0 +1,81 @@
+feature,importance
+Private,0.22860076
+economic_quintile_5th Quintile (Richest),0.080931075
+economic_quintile_4th Quintile,0.05073971
+CANCERS,0.043881647
+INFECTION,0.025227915
+KIDNEY_FAILURE,0.024239229
+economic_quintile_3rd Quintile,0.023352657
+CARDIO_VASCULAR,0.02218268
+Charity,0.019329077
+INJURIES,0.019115577
+HH_size_≤4 members,0.017392136
+MUSCULO,0.016956283
+PSYCHIATRIC,0.015719973
+economic_quintile_2nd Quintile,0.014489483
+state_Gujarat,0.014419874
+state_Tamil Nadu,0.013542883
+SYMPTOM_UNKNOWN,0.013538223
+state_Haryana,0.012373572
+OBSTETRIC,0.011860919
+state_Rajasthan,0.0114217205
+CHILDBIRTH,0.011160557
+state_Arunachal Pradesh,0.010935835
+EYE,0.010650849
+state_Assam,0.009893971
+state_Manipur,0.009404714
+GASTRO,0.009079452
+GENITO,0.008401247
+state_Uttar Pradesh,0.007731575
+state_Mizoram,0.0074867625
+state_West Bengal,0.0071878545
+state_Sikkim,0.007148953
+state_Jharkhand,0.0071316315
+state_Chhattisgarh,0.0068899887
+Govt,0.0066645164
+state_Odisha,0.006634031
+state_Bihar,0.0065065203
+state_Punjab,0.0061550206
+ENDOCRINE,0.006006111
+Religion_Other,0.005997528
+state_Maharashtra,0.0056035146
+RESPIRATORY,0.005591949
+state_Kerala,0.005501761
+state_Uttarakhand,0.0055000884
+state_Delhi,0.005335118
+female_ratio,0.0053155134
+sector_Urban,0.0053124875
+state_Tripura,0.0051349574
+state_Nagaland,0.0051084636
+state_Andhra Pradesh,0.0050449935
+state_Madhya Pradesh,0.0050170664
+NO_SYMPTOM_INFO,0.0049669277
+Mejor_source_of_income_Regular Wage,0.0049360516
+SKIN,0.004905621
+age_of_household_base60_Below 60,0.004814099
+HH_education_Graduation & above,0.004747881
+social_group_ST,0.0046589114
+insurance_cover_1,0.0046484172
+social_group_SC,0.0045843828
+Gender_Male,0.0045357253
+Mejor_source_of_income_Other,0.004443963
+BLOOD_DISEASES,0.004427476
+state_Himachal Pradesh,0.0043699057
+max_education,0.004351692
+state_Karnataka,0.0042650015
+Mejor_source_of_income_Self-employed,0.0042483676
+social_group_nan,0.00422674
+state_Jammu & Kashmir,0.003965308
+Religion_Islam,0.0039522233
+state_Telangana,0.003924987
+state_Lakshadweep,0.0037631118
+state_Daman & Diu,0.003692617
+HH_education_Below Secondary,0.003379743
+state_Chandigarh,0.0029533638
+state_Meghalaya,0.002683293
+state_Puducherry,0.0026104737
+state_Goa,0.0025378943
+EAR,0.0024011238
+state_Ladakh,0.0021563105
+Gender_Transgender,0.0
+state_Unknown,0.0

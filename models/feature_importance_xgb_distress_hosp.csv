@@ -1,0 +1,81 @@
+feature,importance
+Private,0.1467645
+state_Tamil Nadu,0.054731768
+state_Andhra Pradesh,0.03514127
+OBSTETRIC,0.028321477
+Charity,0.026540957
+state_Telangana,0.02590872
+HH_education_Below Secondary,0.021985834
+Mejor_source_of_income_Other,0.021687375
+state_Kerala,0.020563602
+CANCERS,0.019088846
+INJURIES,0.016872412
+INFECTION,0.016711075
+CHILDBIRTH,0.016382096
+state_Madhya Pradesh,0.016346656
+state_Mizoram,0.016077971
+state_West Bengal,0.015190571
+max_education,0.015046548
+economic_quintile_5th Quintile (Richest),0.014714392
+Mejor_source_of_income_Regular Wage,0.014615879
+PSYCHIATRIC,0.014294137
+state_Bihar,0.013711695
+Mejor_source_of_income_Self-employed,0.013590484
+state_Assam,0.01325493
+state_Nagaland,0.012950194
+Govt,0.01214724
+state_Odisha,0.012067599
+KIDNEY_FAILURE,0.011432851
+state_Chhattisgarh,0.011342076
+CARDIO_VASCULAR,0.011331155
+state_Gujarat,0.011260345
+state_Uttar Pradesh,0.011123975
+state_Karnataka,0.0107083935
+state_Sikkim,0.010480447
+social_group_nan,0.009932175
+sector_Urban,0.009436647
+GASTRO,0.009426807
+MUSCULO,0.009057575
+state_Manipur,0.008785166
+GENITO,0.0085465675
+state_Meghalaya,0.00821676
+insurance_cover_1,0.008143006
+social_group_ST,0.0077297236
+NO_SYMPTOM_INFO,0.0075781327
+state_Jammu & Kashmir,0.007564413
+EYE,0.0075578648
+state_Tripura,0.007230974
+state_Ladakh,0.0071486617
+state_Haryana,0.0071411803
+HH_size_≤4 members,0.0071403002
+HH_education_Graduation & above,0.0071272915
+state_Jharkhand,0.006429492
+social_group_SC,0.0064014974
+Religion_Islam,0.006294223
+SYMPTOM_UNKNOWN,0.0062403083
+state_Puducherry,0.0062083383
+ENDOCRINE,0.0061294446
+BLOOD_DISEASES,0.0060360394
+state_Punjab,0.0058230963
+state_Maharashtra,0.0057132486
+economic_quintile_2nd Quintile,0.005705351
+economic_quintile_3rd Quintile,0.005654328
+state_Lakshadweep,0.0056366595
+economic_quintile_4th Quintile,0.0055344836
+Religion_Other,0.005476992
+state_Arunachal Pradesh,0.0054707187
+state_Rajasthan,0.005469411
+RESPIRATORY,0.005408766
+state_Goa,0.005320796
+female_ratio,0.0053104744
+state_Delhi,0.005119384
+Gender_Male,0.0050836857
+EAR,0.0048058536
+SKIN,0.004773019
+state_Uttarakhand,0.004618803
+age_of_household_base60_Below 60,0.004388786
+state_Himachal Pradesh,0.0036147889
+state_Daman & Diu,0.0032627117
+state_Chandigarh,0.002624511
+Gender_Transgender,0.0012940118
+state_Unknown,0.0

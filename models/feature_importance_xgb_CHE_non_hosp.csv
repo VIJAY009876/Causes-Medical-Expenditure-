@@ -1,0 +1,81 @@
+feature,importance
+Private,0.11098016
+economic_quintile_5th Quintile (Richest),0.045063596
+INJURIES,0.025669916
+CANCERS,0.024157802
+Charity,0.022782687
+GENITO,0.02148331
+state_Bihar,0.020407222
+CARDIO_VASCULAR,0.019943783
+HH_size_≤4 members,0.019654285
+PSYCHIATRIC,0.019288573
+economic_quintile_4th Quintile,0.017477537
+state_Manipur,0.017109526
+state_Jammu & Kashmir,0.016947249
+ENDOCRINE,0.016777964
+MUSCULO,0.016441686
+economic_quintile_2nd Quintile,0.01641132
+state_Tripura,0.016333587
+SYMPTOM_UNKNOWN,0.01578758
+state_Arunachal Pradesh,0.015617235
+state_Uttar Pradesh,0.01537882
+INFECTION,0.015337346
+GASTRO,0.014970573
+state_Maharashtra,0.014071409
+KIDNEY_FAILURE,0.014061822
+SKIN,0.013813825
+state_Karnataka,0.013599005
+RESPIRATORY,0.0135928625
+state_Kerala,0.013033406
+state_Nagaland,0.012900136
+OBSTETRIC,0.012442505
+Religion_Other,0.012089775
+Govt,0.012053001
+BLOOD_DISEASES,0.011854474
+state_Jharkhand,0.011799821
+economic_quintile_3rd Quintile,0.011665348
+state_Madhya Pradesh,0.011245167
+EAR,0.011170192
+state_Rajasthan,0.010417326
+state_Telangana,0.010191956
+EYE,0.009887618
+social_group_SC,0.009803474
+state_Gujarat,0.00964901
+state_West Bengal,0.00947695
+state_Punjab,0.009341428
+state_Mizoram,0.009147556
+Mejor_source_of_income_Regular Wage,0.009081204
+Religion_Islam,0.00877594
+state_Odisha,0.00870069
+age_of_household_base60_Below 60,0.008578828
+state_Chhattisgarh,0.008529535
+state_Assam,0.008311966
+state_Uttarakhand,0.008248165
+social_group_ST,0.008230727
+state_Andhra Pradesh,0.00810995
+state_Tamil Nadu,0.0076412144
+female_ratio,0.007599687
+state_Haryana,0.007586683
+state_Sikkim,0.0075124516
+HH_education_Below Secondary,0.007451419
+state_Himachal Pradesh,0.0074502616
+Mejor_source_of_income_Other,0.007337973
+max_education,0.0072706677
+Gender_Male,0.00717442
+HH_education_Graduation & above,0.0070572835
+sector_Urban,0.0069155954
+Mejor_source_of_income_Self-employed,0.006727296
+insurance_cover_1,0.006691393
+social_group_nan,0.0064227358
+NO_SYMPTOM_INFO,0.0055600908
+state_Daman & Diu,0.0051421197
+state_Goa,0.0051077153
+state_Delhi,0.004145025
+state_Puducherry,0.0037958706
+state_Meghalaya,0.0030506405
+state_Lakshadweep,0.0028582348
+state_Chandigarh,0.0016042835
+Gender_Transgender,0.0
+state_Ladakh,0.0
+state_Unknown,0.0
+CHILDBIRTH,0.0

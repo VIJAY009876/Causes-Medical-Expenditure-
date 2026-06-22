@@ -1,0 +1,81 @@
+feature,importance
+state_Kerala,0.11069962
+Govt,0.080931336
+state_Karnataka,0.029042104
+state_Tamil Nadu,0.02544865
+state_Jammu & Kashmir,0.024220979
+CARDIO_VASCULAR,0.023525367
+state_Rajasthan,0.021240503
+state_Gujarat,0.019846886
+state_Telangana,0.019785589
+state_Andhra Pradesh,0.019404406
+state_Madhya Pradesh,0.019070948
+state_Tripura,0.018635327
+state_Sikkim,0.018451657
+state_Lakshadweep,0.018235918
+Mejor_source_of_income_Other,0.017787185
+state_Uttar Pradesh,0.017159715
+PSYCHIATRIC,0.017094499
+INJURIES,0.016695965
+state_Assam,0.016144844
+ENDOCRINE,0.015757496
+state_Bihar,0.014011457
+MUSCULO,0.013239738
+EYE,0.013162472
+state_Manipur,0.0124725485
+Private,0.01212108
+SYMPTOM_UNKNOWN,0.012088673
+GENITO,0.011729976
+SKIN,0.011165259
+state_Haryana,0.010913984
+CANCERS,0.010713542
+RESPIRATORY,0.010537006
+state_Odisha,0.010023162
+GASTRO,0.009612936
+state_Uttarakhand,0.009491567
+OBSTETRIC,0.009372037
+state_Maharashtra,0.009283401
+state_West Bengal,0.009117399
+NO_SYMPTOM_INFO,0.009117219
+state_Chhattisgarh,0.008887797
+KIDNEY_FAILURE,0.008685069
+Religion_Other,0.008541514
+EAR,0.008510487
+state_Arunachal Pradesh,0.008159896
+HH_education_Graduation & above,0.00798885
+Gender_Male,0.0079400195
+state_Daman & Diu,0.007847032
+max_education,0.007696449
+economic_quintile_5th Quintile (Richest),0.00765458
+social_group_SC,0.007546731
+INFECTION,0.0075382534
+state_Jharkhand,0.0074659404
+state_Punjab,0.0074241413
+Religion_Islam,0.0072958623
+social_group_nan,0.007277703
+BLOOD_DISEASES,0.00720536
+female_ratio,0.007204588
+Mejor_source_of_income_Regular Wage,0.007019091
+economic_quintile_2nd Quintile,0.006987315
+state_Meghalaya,0.0067128567
+economic_quintile_3rd Quintile,0.006668148
+social_group_ST,0.0066132983
+insurance_cover_1,0.0065411427
+sector_Urban,0.006516187
+HH_education_Below Secondary,0.00635288
+state_Mizoram,0.0063453433
+age_of_household_base60_Below 60,0.0061750426
+economic_quintile_4th Quintile,0.006012812
+state_Puducherry,0.0058450922
+state_Nagaland,0.005748925
+Charity,0.0057188245
+state_Goa,0.005387051
+HH_size_≤4 members,0.0053388723
+state_Himachal Pradesh,0.0050402363
+Mejor_source_of_income_Self-employed,0.0048922845
+state_Delhi,0.0018618566
+Gender_Transgender,0.0
+state_Ladakh,0.0
+state_Chandigarh,0.0
+state_Unknown,0.0
+CHILDBIRTH,0.0

@@ -1,0 +1,7 @@
+,accuracy,precision,recall,f1,roc_auc,cv_roc_auc_mean,cv_roc_auc_std
+xgb_CHE_hosp,80.23,65.66,53.87,59.19,85.01,85.03,0.38
+xgb_under_poverty_since_OOPE_hosp,88.7,54.99,16.33,25.18,85.52,85.76,0.23
+xgb_distress_hosp,83.28,55.94,13.38,21.6,75.69,75.75,0.31
+xgb_CHE_non_hosp,71.04,64.12,48.7,55.35,76.22,77.04,0.5
+xgb_under_poverty_since_OOPE_non_hosp,83.11,50.22,16.45,24.78,77.93,77.93,0.75
+xgb_distress_non_hosp,81.16,57.32,23.12,32.95,73.32,74.3,0.65

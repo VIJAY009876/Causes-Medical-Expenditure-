@@ -1,0 +1,81 @@
+feature,importance
+Private,0.28509876
+economic_quintile_5th Quintile (Richest),0.085550666
+economic_quintile_4th Quintile,0.032309912
+CANCERS,0.0280642
+INFECTION,0.027089203
+Charity,0.026636412
+state_Manipur,0.020076273
+state_Haryana,0.019400325
+KIDNEY_FAILURE,0.0180561
+CARDIO_VASCULAR,0.015905766
+INJURIES,0.013762283
+OBSTETRIC,0.013381885
+state_Mizoram,0.013324554
+HH_size_≤4 members,0.01331946
+state_Gujarat,0.012920203
+PSYCHIATRIC,0.012719335
+state_Tamil Nadu,0.012714788
+MUSCULO,0.012701398
+state_Nagaland,0.012668611
+state_Rajasthan,0.012294531
+EYE,0.0122917555
+CHILDBIRTH,0.011846756
+economic_quintile_3rd Quintile,0.011731232
+economic_quintile_2nd Quintile,0.011158648
+state_Uttar Pradesh,0.010253181
+SYMPTOM_UNKNOWN,0.010153444
+state_Arunachal Pradesh,0.009365566
+state_Sikkim,0.008721841
+state_Delhi,0.008520759
+state_Assam,0.0080397595
+GASTRO,0.0076107373
+state_Tripura,0.0074031716
+GENITO,0.0073021743
+Govt,0.0072176345
+state_Himachal Pradesh,0.0068388754
+state_Meghalaya,0.006688217
+state_Telangana,0.005796963
+state_Bihar,0.005787804
+RESPIRATORY,0.0057228436
+state_Punjab,0.0056319805
+state_Kerala,0.005312879
+state_West Bengal,0.005168797
+age_of_household_base60_Below 60,0.00505848
+sector_Urban,0.005030211
+state_Chhattisgarh,0.004898923
+state_Maharashtra,0.0048296642
+insurance_cover_1,0.0046555605
+state_Odisha,0.0045942776
+state_Andhra Pradesh,0.004261163
+state_Jharkhand,0.0042066826
+Religion_Other,0.004044527
+ENDOCRINE,0.0040265447
+state_Jammu & Kashmir,0.0039906446
+social_group_ST,0.0039522033
+HH_education_Graduation & above,0.003924003
+NO_SYMPTOM_INFO,0.0038840978
+female_ratio,0.0038454037
+HH_education_Below Secondary,0.0038259572
+Mejor_source_of_income_Self-employed,0.0037803354
+Religion_Islam,0.0037710115
+state_Madhya Pradesh,0.003712213
+state_Daman & Diu,0.003525369
+state_Karnataka,0.0035020967
+Mejor_source_of_income_Other,0.0034859602
+max_education,0.0034546724
+BLOOD_DISEASES,0.003449158
+state_Uttarakhand,0.0034012687
+Mejor_source_of_income_Regular Wage,0.0033359453
+state_Lakshadweep,0.0033004095
+social_group_nan,0.0032798823
+SKIN,0.0032670058
+social_group_SC,0.0032571112
+Gender_Male,0.0030233564
+state_Ladakh,0.0029475563
+state_Chandigarh,0.0027724912
+state_Goa,0.002484689
+EAR,0.0023486107
+state_Puducherry,0.0023127995
+Gender_Transgender,0.0
+state_Unknown,0.0
