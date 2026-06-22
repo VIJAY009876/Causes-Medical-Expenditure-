@@ -33,8 +33,13 @@ Enter household characteristics to predict the probability of:
 - **CHE** — Catastrophic Health Expenditure
 - **Poverty Push** — Pushed below poverty line due to OOPE
 - **Distress** — Distress Financing (borrowed / sold assets for healthcare)
-
 *Models trained once with XGBoost — loaded from disk on every page visit.*
+""")
+st.info("""
+ℹ️ Please enter household characteristics corresponding to the healthcare event being analysed.
+• Hospitalization cases refer to treatment requiring admission during the previous 365 days.
+• Outpatient cases refer to treatment received without admission during the previous 15 days.
+• Predictions are based on NSSO 80th Round (2023–24) survey data and should be treated as indicative estimates only.
 """)
 
 BASE       = os.path.join(os.path.dirname(__file__), "..")
@@ -103,20 +108,49 @@ with st.form("prediction_form"):
             "Diploma (Higher Secondary)": 10, "Diploma (Graduation & Above)": 11,
             "Graduate": 12, "Post Graduate & Above": 13
         }
-        max_edu_label = st.selectbox("Max Education in Household", list(education_options.keys()))
+        max_edu_label = st.selectbox(
+             "Highest Education Level in Household",
+             list(education_options.keys()),
+             help="Highest educational attainment among all household members."
+         )
         max_education = education_options[max_edu_label]
 
-        female_ratio = st.slider("Female Ratio in Household", 0.0, 1.0, 0.50, 0.01)
+        female_ratio = st.slider(
+              "Female Ratio in Household",
+              0.0, 1.0, 0.50, 0.01,
+              help="Proportion of household members who are female. Example: 0.50 means 50% of members are female."
+          )
 
     with col3:
         st.markdown("**Healthcare Utilisation**")
-        dataset_type = st.radio("Case Type", ["Hospitalization", "Outpatient (15-day)"])
-        st.markdown("**Hospital Type Used**")
+        dataset_type = st.radio("Case Type",
+                   ["Hospitalization", "Outpatient (15-day)"],
+                   help="""
+          Hospitalization: Medical conditions requiring admission during the last 365 days.
+          Outpatient: Medical conditions treated without admission during the last 15 days.
+          """)
+        st.markdown("""
+          *Select the type(s) of healthcare facility used for treatment.*
+          
+          - Hospitalization: Facility used during the last 365 days.
+          - Outpatient: Facility used during the last 15 days.
+          """)
+
         use_govt    = st.checkbox("Government Hospital")
         use_charity = st.checkbox("Charity Hospital")
         use_private = st.checkbox("Private Hospital")
         st.markdown("**Disease (select all that apply)**")
-        selected_diseases = st.multiselect("Diseases", DISEASE_COLS)
+        selected_diseases = st.multiselect("Diseases",DISEASE_COLS,
+                   help="""
+               Select all diseases/ailments associated with the healthcare event.
+               
+               For Hospitalization cases:
+               Diseases reported during the previous 365 days.
+               
+               For Outpatient cases:
+               Diseases reported during the previous 15 days.
+               """
+               )
 
     submitted = st.form_submit_button("🔮 Predict Risk", use_container_width=True)
 
