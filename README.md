@@ -1,4 +1,4 @@
-# NSSO Health Expenditure Analysis Dashboard
+# Medical Expenditure Determinants and Prediction
 
 A Streamlit-based analytics dashboard for studying the determinants of medical expenditure using the NSSO 80th Round Health Consumption Expenditure Survey (2022–23).
 
@@ -181,7 +181,7 @@ Models the logarithm of Out-of-Pocket Expenditure (OOPE) conditional on positive
 
 ---
 
-## Technologies Used
+## Tools Used
 
 - **Python** — Core language
 - **Streamlit** — Web application framework
@@ -189,7 +189,7 @@ Models the logarithm of Out-of-Pocket Expenditure (OOPE) conditional on positive
 - **Statsmodels** — Statistical modeling (GLM)
 - **Scikit-Learn** — Preprocessing and utilities
 - **XGBoost** — Machine learning models
-- **Plotly, Matplotlib, Seaborn** — Data visualization
+- **Matplotlib, Seaborn** — Data visualization
 - **Joblib** — Model caching and serialization
 
 ---
@@ -219,8 +219,25 @@ Indian Institute of Technology Tirupati
 
 ---
 
-## License
 
-This project is part of the NSS Health Cost-Effectiveness Analysis (CEA) Project.
+## Reference
+
+This project was inspired by and builds upon the methodology presented in:
+
+Nanda, M., & Sharma, R. (2023). *A Comprehensive Examination of the Economic Impact of Out-of-Pocket Health Expenditures in India*. Health Policy and Planning, 38(8), 926–938.
+
+Key concepts adapted from the study include:
+
+- Catastrophic Health Expenditure (CHE)
+- Poverty Headcount Ratio
+- Distressed Financing
+- Disease-wise Financial Burden Analysis
+
+
+
+## Acknowledgement
+
+This project was developed during an internship under the Ministry of Statistics and Programme Implementation (MoSPI), Government of India, using NSSO 80th Round Health Consumption Expenditure Survey data.
+
 
 For questions or issues, please open a GitHub issue.
