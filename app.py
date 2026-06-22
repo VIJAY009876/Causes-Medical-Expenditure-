@@ -6,12 +6,7 @@ Entry point. Run with:  streamlit run app.py
 
 import streamlit as st
 
-st.info(
-    """
-    ℹ️ Results and predictions are based on NSSO 80th Round survey data (2023–24) and should be treated as indicative estimates rather than guaranteed outcomes.
-    """
-)
-
+# ── MUST be first Streamlit command ────────────────────────────────
 st.set_page_config(
     page_title="Analysis and Prediction of Medical Expenditure and Its Effects on Indian households",
     page_icon="🏥",
@@ -49,6 +44,12 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
+st.info(
+    """
+    ℹ️ Results and predictions are based on NSSO 80th Round survey data (2023–24) and should be treated as indicative estimates rather than guaranteed outcomes.
+    """
+)
+
 # ── Home page ─────────────────────────────────────────────────────
 st.title("🏥 NSS Health Consumption Expenditure Survey")
 st.markdown("**80th Round — National Sample Survey**")
@@ -62,7 +63,7 @@ with col1:
     Visualise OOPE, CHE, distress financing and poverty across
     states, sectors, income groups, diseases and hospital types.
     """)
-    st.page_link("pages/EDA.py", label="Open EDA →", icon="📊")
+    st.page_link("pages/1_EDA.py", label="Open EDA →", icon="📊")
 
 with col2:
     st.markdown("""
@@ -70,7 +71,7 @@ with col2:
     Weighted GLM results — Gamma for OOPE, Logistic for CHE,
     Poverty Line, and Distress. Odds ratios with significance.
     """)
-    st.page_link("pages/Statistics.py", label="Open Statistics →", icon="📐")
+    st.page_link("pages/2_Statistics.py", label="Open Statistics →", icon="📐")
 
 with col3:
     st.markdown("""
@@ -78,7 +79,7 @@ with col3:
     Enter household characteristics and get predicted probability
     of CHE, poverty after OOPE, and distress financing.
     """)
-    st.page_link("pages/Prediction.py", label="Open Prediction →", icon="🤖")
+    st.page_link("pages/3_Prediction.py", label="Open Prediction →", icon="🤖")
 
 st.markdown("---")
 st.markdown("""
