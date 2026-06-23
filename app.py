@@ -51,7 +51,7 @@ st.info(
 )
 
 # ── Home page ─────────────────────────────────────────────────────
-st.title("🏥 NSS Health Consumption Expenditure Survey")
+st.title("🏥 Analysis and Prediction of Medical Expenditure and Its Effects on Indian households
 st.markdown("**80th Round — National Sample Survey**")
 
 st.markdown("---")
