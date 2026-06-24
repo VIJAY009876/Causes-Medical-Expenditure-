@@ -51,7 +51,7 @@ st.info(
 )
 
 # ── Home page ─────────────────────────────────────────────────────
-st.title("🏥 Analysis and Prediction of Medical Expenditure and Its Effects on Indian households
+st.title("🏥 Analysis and Prediction of Medical Expenditure and Its Effects on Indian households")
 st.markdown("**80th Round — National Sample Survey**")
 
 st.markdown("---")
