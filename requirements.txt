@@ -1,11 +1,11 @@
-streamlit==1.52.2        # Dashboard framework
-pandas==2.2.3            # Data manipulation
-numpy==2.2.5             # Numerical computing
-scikit-learn==1.8.0      # ML models
-scipy==1.17.1            # Scientific computing
-matplotlib==3.10.3       # Plotting
-seaborn==0.13.2          # Statistical visualization
-plotly==6.8.0            # Interactive plots
-statsmodels==0.14.6      # Statistical models
-python-dotenv==1.1.0     # Environment variables
-xgboost==1.7.6           # Extreme Gradient Boosting
+streamlit
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+plotly
+statsmodels
+python-dotenv
+xgboost
