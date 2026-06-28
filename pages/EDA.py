@@ -194,7 +194,6 @@ with tab3:
     ):
         ax.barh(df["state_name"], df["value"], color=color, alpha=0.85)
         ax.bar_label(bars, fmt="%.2f", padding=3, fontsize=9)
-        ax.set_xlim(0, df["value"].max() * 1.15)
         ax.set_title(f"{title} — {metric}")
         ax.set_xlabel(metric)
     plt.tight_layout()
