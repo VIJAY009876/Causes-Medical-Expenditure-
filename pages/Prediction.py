@@ -39,7 +39,7 @@ st.info("""
 ℹ️ Please enter household characteristics corresponding to the healthcare event being analysed.
 • Hospitalization cases refer to treatment requiring admission during the previous 365 days.
 • Outpatient cases refer to treatment received without admission during the previous 15 days.
-• Predictions are based on NSSO 80th Round (2023–24) survey data and should be treated as indicative estimates only.
+• Predictions are based on NSSO 80th Round (2025) survey data and should be treated as indicative estimates only.
 """)
 
 BASE       = os.path.join(os.path.dirname(__file__), "..")
