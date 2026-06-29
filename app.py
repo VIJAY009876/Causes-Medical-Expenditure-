@@ -46,7 +46,7 @@ st.markdown("""
 
 st.info(
     """
-    ℹ️ Results and predictions are based on NSSO 80th Round survey data (2023–24) and should be treated as indicative estimates rather than guaranteed outcomes.
+    ℹ️ Results and predictions are based on NSSO 80th Round survey data (jan-dec 2025) and should be treated as indicative estimates rather than guaranteed outcomes.
     """
 )
 
